@@ -4,6 +4,9 @@ choco install curl -y --force --params "'ALLUSERS=1"
 choco install wget -y --force --params "'ALLUSERS=1"
 choco install nmap -y --force --params "'ALLUSERS=1"
 choco install python3 -y --force --params "'ALLUSERS=1"
+choco install powertoys -y --force --params "'ALLUSERS=1"
+choco install putty -y --force --params "'ALLUSERS=1"
+choco install winscp -y --force --params "'ALLUSERS=1"
 
 # office
 choco install evernote -y --force --params "'ALLUSERS=1"
